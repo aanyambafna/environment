@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+body{
+    font-family: 'Dancing Script', cursive;
+}
+div{
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+
+}
+img{
+   height: 70%; 
+}
+#heading {
+    color: chartreuse;
+}
+.green-box{
+   background-color: olivedrab; 
+}
